@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-Some information about me:
+### Some information about me:
 - 🔭 I’m currently working on upgrading my career by learning how to be a data scientist.
 - 🌱 For this, I’m currently practicing python, unix shell, and all the tools for machine learning that are useful.
 - 💬 Ask me about the weather and all the interesting things on our planet, as I am a geographer by profession :earth_africa:.
